@@ -26,4 +26,4 @@ laboratorna_2
 
 #### 5. ЗОБРАЖЕННЯ
 
-![picture]([https://github.com/Mak3onnv/Maks/blob/main/4.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thesprucepets.com%2Fall-about-tabby-cats-552489&psig=AOvVaw39pC_rBELAEUGhV4Vk_odE&ust=1686265798151000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMj_tuGjsv8CFQAAAAAdAAAAABAJ))
+![picture](https://github.com/Mak3onnv/Maks/blob/main/4.jpg)
